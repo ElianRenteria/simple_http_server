@@ -1,0 +1,5 @@
+# ninja log v6
+1	70	1725727307384787882	CMakeFiles/HttpServer.dir/main.c.o	1e038fcdac9a9c0e
+71	114	1725727307456775860	HttpServer	2d8634b3403e31cf
+2	65	1725727323730209116	CMakeFiles/HttpServer.dir/main.c.o	1e038fcdac9a9c0e
+65	104	1725727323794199580	HttpServer	2d8634b3403e31cf

@@ -1,0 +1,3 @@
+/home/elianrenteria/CLionProjects/HttpServer/cmake-build-debug/CMakeFiles/HttpServer.dir
+/home/elianrenteria/CLionProjects/HttpServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/elianrenteria/CLionProjects/HttpServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
